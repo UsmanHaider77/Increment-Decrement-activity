@@ -1,5 +1,5 @@
 void main() {
-  Mathematics obj = Mathematics(6, 4);
+  Mathematics obj = Mathematics(6, 6);
   int addResult = obj.addition();
   print(addResult);
   print("------------");
